@@ -1,0 +1,191 @@
+@charset "utf-8";
+
+#headline{
+	width: 100%;
+	min-width: 1263px;
+    height: 300px;
+    background: linear-gradient(to right bottom,rgba(0,0,0,0.7),rgba(0,0,0,0)) ,  url(../img/home/header1.jpg) no-repeat center;
+}
+
+#headline .center{
+	width:1263px;
+	height: 300px;
+	margin: 0 auto;
+}
+
+#headline hgroup{
+	padding:100px 0 0 50px;
+}
+
+#headline h2{
+    color: #eee;
+    font-size: 36px;
+    letter-spacing: 1px;
+}
+
+#headline h3{
+    color: #eee;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+#container{
+	width: 1263px;
+	margin: 30px auto;
+}
+
+#container .sidebar{
+    width: 340px;
+    height: 1200px; 
+    float: right;  
+}
+
+#container .sidebox{
+    border:1px solid #eee;
+    margin: 0 0 10px 0;
+    text-align: center;
+}
+
+#container .sidebox h2{
+   font-size: 20px;
+   font-weight: normal;
+   letter-spacing: 1px;
+   text-indent: 8px;
+   height: 40px;
+   line-height: 40px;
+   background-color: #fafafa;
+   color: #666;
+   text-align: left;
+}
+
+#container .tag{
+    padding: 10px 0;
+}
+
+#container .tag a{
+    display: inline-block;
+    width: 100px;
+    height: 35px;
+    line-height: 35px;
+    margin: 2px 0;
+    background-color: #eee;
+    color: #999;
+}
+
+#container .tag a:hover{
+    background-color:#458b80;
+    color: #fff;
+}
+
+#container .figure{
+
+}
+
+#container figure{
+    display: inline-block;
+    padding: 4px;
+    color: #666;
+}
+
+#container .box a{
+    display: inline-block;
+    width: 150px;
+    height: 40px;
+    line-height: 40px;
+    margin: 2px 0;
+    background-color: #eee;
+    color: #999;
+}
+
+#container .box a:hover{
+    background-color:#458b80;
+    color: #fff;
+}
+
+#container .trea1{
+    background: #eee url(../img/ticket-order/trea1.png) no-repeat 10px center;
+}
+
+#container .trea2{
+    background: #eee url(../img/ticket-order/trea2.png) no-repeat 10px center;
+}
+#container .trea3{
+    background: #eee url(../img/ticket-order/trea3.png) no-repeat 10px center;
+}
+#container .trea4{
+    background: #eee url(../img/ticket-order/trea4.png) no-repeat 10px center;
+}
+
+#container .list{
+    width:900px;
+    float: left;    
+}
+
+#container .scenery h2{
+    height: 40px;
+    line-height: 40px;
+    border-bottom: 1px dashed #999;
+    padding: 0 0 15px 0;
+    font-size: 30px;
+    font-weight: normal;
+}
+
+#container .scenery figure{
+    border:1px solid #ddd;
+    display: inline-block;
+    padding: 4px;
+    border-radius: 4px;
+    margin: 10px 100px 5px 0;
+    width: 340px;
+    text-align: left;
+}
+
+#container .scenery figcaption{
+    text-align: center;
+    padding: 5px 0;
+}
+
+#container .more{
+    width: 200px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    margin: 0 0 0 300px;
+    border:1px solid #ccc;
+    background-color: #fafafa;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 18px;
+    color:#666;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
